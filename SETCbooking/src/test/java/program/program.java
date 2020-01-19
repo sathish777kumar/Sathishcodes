@@ -15,7 +15,7 @@ public class program {
 	
 	@Test
 	
-	public static void wet () throws Exception {
+	public static void pet () throws Exception {
 		
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Sathish\\Downloads\\chromedriver.exe");
 		

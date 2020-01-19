@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49013" started-at="2019-12-15T05:57:09Z" finished-at="2019-12-15T05:57:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49013" started-at="2019-12-15T05:57:09Z" finished-at="2019-12-15T05:57:58Z">
+      <class name="program.program">
+        <test-method status="PASS" signature="wet()[pri:0, instance:program.program@1f3ddb1]" name="wet" duration-ms="48730" started-at="2019-12-15T05:57:09Z" finished-at="2019-12-15T05:57:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wet -->
+      </class> <!-- program.program -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

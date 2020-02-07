@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="parallel Suites" parallel="tests">
+  
+  <test name="Tests in FF">
+ 
+    <classes>
+      <parameter name="browser"  value="FF"/>
+      <class name="webpack.ScreenshotsDemo"/>
+      <class name="webpack.MultiWindowDemo"/>
+      <class name="webpack.SynchronizationDemo"/>
+      
+    </classes>
+  </test>
+  
+  <test name="Test in GC">
+ 
+    <classes>
+      <parameter name="browser"  value="GC"/>
+      <class name="webpack.ScreenshotsDemo"/>
+      <class name="webpack.MultiWindowDemo"/>
+      <class name="webpack.SynchronizationDemo"/>
+      
+    </classes>
+  </test>
+    
+</suite>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="My test suite">
+  <test name="Group Test Demo">
+
+  <groups>
+      <run>
+        <include name="high"/>
+        <include name="Normal"/>  
+      </run>
+    </groups>
+    
+    <classes>
+       <class name="webpack.GroupTest1" />
+        <class name="webpack.GroupTest2" />
+       
+    </classes>
+  </test>
+</suite>

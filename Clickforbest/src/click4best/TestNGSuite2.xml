@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="parallel Suites" parallel="tests">
+  
+  <test name="Test">
+ 
+    <classes>
+      <parameter name="browser"  value="FF"/>
+      <class name="webpack.MouseOverDemo"/>
+      <class name="webpack.WebTable_WebDriver"/>
+      <class name="webpack.WebLinks"/>
+      
+    </classes>
+  </test>
+  
+    
+</suite>

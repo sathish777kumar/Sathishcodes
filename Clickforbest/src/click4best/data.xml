@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ParamExample" verbose="1" >
+  <test name="TestNGExample" >
+  
+  
+  <parameter name="sum" value="5"/>
+  
+  
+    <classes>
+       <class name="webpack.dataProvider" />
+    </classes>
+  </test>
+</suite>

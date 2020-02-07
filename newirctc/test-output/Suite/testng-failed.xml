@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="newirctc.newirctc.Class1">
+        <methods>
+          <include name="ant"/>
+          <include name="bat"/>
+          <include name="check"/>
+        </methods>
+      </class> <!-- newirctc.newirctc.Class1 -->
+      <class name="newirctc.newirctc.class2">
+        <methods>
+          <include name="dog"/>
+        </methods>
+      </class> <!-- newirctc.newirctc.class2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="172" started-at="2019-09-14T14:42:19Z" finished-at="2019-09-14T14:42:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="172" started-at="2019-09-14T14:42:19Z" finished-at="2019-09-14T14:42:19Z">
+      <class name="newirctc.newirctc.class2">
+        <test-method status="PASS" signature="case5()[pri:0, instance:newirctc.newirctc.class2@f5e5e3]" name="case5" duration-ms="31" started-at="2019-09-14T20:12:19Z" finished-at="2019-09-14T20:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case5 -->
+        <test-method status="PASS" signature="case6()[pri:0, instance:newirctc.newirctc.class2@f5e5e3]" name="case6" duration-ms="0" started-at="2019-09-14T20:12:19Z" finished-at="2019-09-14T20:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case6 -->
+      </class> <!-- newirctc.newirctc.class2 -->
+      <class name="newirctc.newirctc.Class1">
+        <test-method status="PASS" signature="case3()[pri:0, instance:newirctc.newirctc.Class1@1e8b406]" name="case3" duration-ms="0" started-at="2019-09-14T20:12:19Z" finished-at="2019-09-14T20:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case3 -->
+        <test-method status="PASS" signature="case4()[pri:0, instance:newirctc.newirctc.Class1@1e8b406]" name="case4" duration-ms="0" started-at="2019-09-14T20:12:19Z" finished-at="2019-09-14T20:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case4 -->
+      </class> <!-- newirctc.newirctc.Class1 -->
+      <class name="newirctc.newirctc.AppTest">
+        <test-method status="PASS" signature="case1()[pri:0, instance:newirctc.newirctc.AppTest@1ceabc1]" name="case1" is-config="true" duration-ms="31" started-at="2019-09-14T20:12:19Z" finished-at="2019-09-14T20:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+        <test-method status="PASS" signature="case2()[pri:0, instance:newirctc.newirctc.AppTest@1ceabc1]" name="case2" duration-ms="16" started-at="2019-09-14T20:12:19Z" finished-at="2019-09-14T20:12:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case2 -->
+      </class> <!-- newirctc.newirctc.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

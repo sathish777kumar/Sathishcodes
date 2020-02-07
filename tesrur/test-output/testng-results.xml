@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="121" started-at="2019-07-20T09:02:10Z" finished-at="2019-07-20T09:02:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="121" started-at="2019-07-20T09:02:10Z" finished-at="2019-07-20T09:02:10Z">
+      <class name="tesrur.tesrur.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:tesrur.tesrur.AppTest@af6cff]" name="shouldAnswerWithTrue" duration-ms="68" started-at="2019-07-20T14:32:10Z" finished-at="2019-07-20T14:32:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- tesrur.tesrur.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

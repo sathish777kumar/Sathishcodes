@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="256" started-at="2019-09-28T11:41:13Z" finished-at="2019-09-28T11:41:13Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="133" started-at="2019-09-28T11:41:13Z" finished-at="2019-09-28T11:41:13Z">
+      <class name="TestNGBeforeAfter.Class1">
+        <test-method status="PASS" signature="man()[pri:0, instance:TestNGBeforeAfter.Class1@eff760]" name="man" is-config="true" duration-ms="33" started-at="2019-09-28T17:11:13Z" finished-at="2019-09-28T17:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- man -->
+        <test-method status="PASS" signature="boy()[pri:0, instance:TestNGBeforeAfter.Class1@eff760]" name="boy" duration-ms="25" started-at="2019-09-28T17:11:13Z" finished-at="2019-09-28T17:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- boy -->
+        <test-method status="PASS" signature="girl()[pri:0, instance:TestNGBeforeAfter.Class1@eff760]" name="girl" duration-ms="3" started-at="2019-09-28T17:11:13Z" finished-at="2019-09-28T17:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- girl -->
+        <test-method status="PASS" signature="women()[pri:0, instance:TestNGBeforeAfter.Class1@eff760]" name="women" is-config="true" duration-ms="0" started-at="2019-09-28T17:11:13Z" finished-at="2019-09-28T17:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women -->
+      </class> <!-- TestNGBeforeAfter.Class1 -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="34" started-at="2019-09-28T11:41:13Z" finished-at="2019-09-28T11:41:13Z">
+      <class name="TestNGBeforeAfter.class3">
+        <test-method status="PASS" signature="lady()[pri:0, instance:TestNGBeforeAfter.class3@23a2f9]" name="lady" duration-ms="10" started-at="2019-09-28T17:11:13Z" finished-at="2019-09-28T17:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lady -->
+      </class> <!-- TestNGBeforeAfter.class3 -->
+      <class name="TestNGBeforeAfter.class2">
+        <test-method status="PASS" signature="man()[pri:0, instance:TestNGBeforeAfter.class2@1604f19]" name="man" is-config="true" duration-ms="0" started-at="2019-09-28T17:11:13Z" finished-at="2019-09-28T17:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- man -->
+        <test-method status="PASS" signature="gents()[pri:0, instance:TestNGBeforeAfter.class2@1604f19]" name="gents" duration-ms="4" started-at="2019-09-28T17:11:13Z" finished-at="2019-09-28T17:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gents -->
+        <test-method status="PASS" signature="women()[pri:0, instance:TestNGBeforeAfter.class2@1604f19]" name="women" is-config="true" duration-ms="6" started-at="2019-09-28T17:11:13Z" finished-at="2019-09-28T17:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women -->
+      </class> <!-- TestNGBeforeAfter.class2 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

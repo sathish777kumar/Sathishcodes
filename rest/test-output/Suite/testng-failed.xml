@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="rest.rest.class1">
+        <methods>
+          <include name="baseclass1"/>
+        </methods>
+      </class> <!-- rest.rest.class1 -->
+      <class name="rest.rest.class2">
+        <methods>
+          <include name="testcase41"/>
+          <include name="testcase51"/>
+          <include name="testcase62"/>
+        </methods>
+      </class> <!-- rest.rest.class2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

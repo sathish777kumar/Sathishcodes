@@ -5,7 +5,6 @@
     <classes>
       
       <class name="webpack.ParallelMethods"/>
-      <class name="webpack.OnloadAlertDemo"/>
       
     </classes>
   </test>

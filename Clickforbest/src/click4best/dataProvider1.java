@@ -29,10 +29,13 @@ public void init()
 @DataProvider(name="Muthu")
 public Object[][] param()
 {
-	Object[][] testdata=new Object[2][2];
+	Object[][] testdata=new Object[3][2];
 	
 	testdata[0][0]="mercury";
 	testdata[0][1]="selenium";
+	
+	testdata[1][0]="test";
+	testdata[1][1]="testa";
 	
 	testdata[1][0]="test";
 	testdata[1][1]="testa";
